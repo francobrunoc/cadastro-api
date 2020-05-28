@@ -6,7 +6,7 @@ JDK 1.8 or later needed!
 
 To build and run the project locally you can download Gradle (see how to install here: https://gradle.org/install):
 
-###After installed, running directly via gradle command:
+### After installed, running directly via gradle command:
 
 
 ```
@@ -14,7 +14,7 @@ $cd cadastro-api
 $gradle bootRun
 ```
 
-###Running via .jar file:
+### Or running via .jar file:
 
 ```
 $cd cadastro-api
