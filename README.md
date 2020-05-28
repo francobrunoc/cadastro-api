@@ -16,8 +16,6 @@ $gradle bootRun
 
 ###Running via .jar file:
 
-If the jar is NOT already created on cadastro-api/build/libs:
-
 ```
 $cd cadastro-api
 ```
