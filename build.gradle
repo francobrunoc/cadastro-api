@@ -27,5 +27,6 @@ test {
 }
 
 bootJar {
-    mainClassName = 'CadastroApplication'
+    mainClassName = 'com.empresa.cadastro.CadastroApplication'
 }
+
